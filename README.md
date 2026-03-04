@@ -4,7 +4,7 @@
 [ ![Download](https://api.bintray.com/packages/taurus/Tools/PlayerBase/images/download.svg) ](https://bintray.com/taurus/Tools/PlayerBase/_latestVersion)[![API](https://img.shields.io/badge/API-16%2B-brightgreen.svg?style=flat)](https://android-arsenal.com/api?level=16)
 
 #### ExoPlayerPkg 
-[ ![Download](https://api.bintray.com/packages/taurus/Tools/exoplayer/images/download.svg) ](https://bintray.com/taurus/Tools/exoplayer/_latestVersion)[![API](https://img.shields.io/badge/API-19%2B-brightgreen.svg?style=flat)](https://android-arsenal.com/api?level=19)
+[ ![Download](https://api.bintray.com/packages/taurus/Tools/exoplayer/images/download.svg) ](https://bintray.com/taurus/Tools/exoplayer/_latestVersion)[![API](https://img.shields.io/badge/API-19%2B-brightgreen.svg?style=flat)](https://android-arsenal.com/api?level=19).
 
 #### IjkPlayerPkg 
 [ ![Download](https://api.bintray.com/packages/taurus/Tools/ijkplayer/images/download.svg) ](https://bintray.com/taurus/Tools/ijkplayer/_latestVersion)[![API](https://img.shields.io/badge/API-16%2B-brightgreen.svg?style=flat)](https://android-arsenal.com/api?level=16)
